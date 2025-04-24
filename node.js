@@ -2,7 +2,7 @@
  *
  * Edit Secret Name here  
  */
-const SECRET_NAME = "normalizing_data"
+const SECRET_NAME = "YOUR_SECRET_NAME_HERE"
 
 const axios = require('axios');
 
